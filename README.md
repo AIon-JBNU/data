@@ -23,7 +23,11 @@
  - 11.17일부터 이틀마다 데이터를 측정한 과일의 가스를 시각화 하는
 ---
 ## 시간별 과일 센서.ipynb 필요 라이브러리 
- - pandas
- - matplotlib
- - os
- - io
+ 
+- pandas
+
+- matplotlib
+
+- os
+
+- io
