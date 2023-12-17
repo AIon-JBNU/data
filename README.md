@@ -1,4 +1,4 @@
-# 소프트웨어공학 Team Project
+# 2023년 2학기 캡스톤 디자인
 
 ![images](https://img.shields.io/github/license/minji-o-j/AI-Speaker-for-Senior-Citizen?style=flat-square)
 ![image](https://img.shields.io/badge/language-Python-blueviolet?style=flat-square&logo=Python)
@@ -6,14 +6,9 @@
 <br/>
 
 ---
-## 프로젝트 내용
- - 간단한 CUI(Console User Interface)기반 계산기
- - 지원하는 기능은 더하기, 빼기, 곱하기이며, 나누기 기능은 지원하지 않음
- - 정수만 입력되며, 한 연산에서는 한 종류의 연산자만 들어옴
- - ‘=’을 입력받으면 결과를 출력함
- - 연산 기능과 무관한 이스터에그가 존재함
-<br/>
-  
+## data 내용
+ - 
+ - 
 ---
 ## 개발 기간
 - project1: 2023/11/06 ~ 2023/11/17
