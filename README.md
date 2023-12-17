@@ -7,32 +7,11 @@
 
 ---
 ## data 내용
- - 
- - 
+ - 11.17일부터 이틀마다 데이터를 측정
+ - 19일부터 23일까지 2차 측정까지 한 이유는 데이터가 정확한지 확인해보기 위해서 2번 측정하였습니다.
+ - 12.05일 측정한 데이터는 폐과일과 새과일이 같이 있을때 확인 가능한지 알아보기위해 데이터를 측정하였습니다. (데이터가 상승하는데 기존보다 시간이 오래걸림)
 ---
-## 개발 기간
-- project1: 2023/11/06 ~ 2023/11/17
+## data 측정 기간 
+- project1: 2023/11/17 ~ 2023/11/29 + 12.05
 <br/>
   
----
-  
-## 개발자
-### 코드 역할 분담  
-
-  
-
-- 201918757 강성택 : easteregg - EasterEgg.py
-- 202146712 박용수 : calculator - calculator.py
-- 201918777 박종민 : calculator_controller - calculatorcontroller.py
-- 201917604 이관호 : view - view.py
-- 201912393 이미르 : input_check - inputcheck.py
-- 201912430 조민서 : basic_code - main.py
-- 201912431 조승호 : validation - validator.py
-<br/>
-
-
-  
----
-## Work Flow
-
-![WorkflowDiagram](https://github.com/lalala5772/basic-calculator/assets/65425885/c68dbba3-4074-4b9a-b856-903f997a92d7)
