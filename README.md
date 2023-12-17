@@ -1,6 +1,5 @@
 # 2023년 2학기 캡스톤 디자인
 
-![images](https://img.shields.io/github/license/minji-o-j/AI-Speaker-for-Senior-Citizen?style=flat-square)
 ![image](https://img.shields.io/badge/language-Python-blueviolet?style=flat-square&logo=Python)
 ![image](https://img.shields.io/badge/Latest%20Update-231117-9cf?style=flat-square)
 <br/>
